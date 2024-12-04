@@ -10,11 +10,13 @@
 
 - `server` : ist ein Gerät, das Anfragen von Clients verarbeitet und die angeforderten Dienste bereitstellt
 
-![client server model]()
+![client server model](./client_server_model.png)
 
 ## Internet
 
 - `Internet` : Globales Netzwerk, welches die weltweite Kommunikation durch den Zusammenschluss von Servern ermöglicht
+
+![internet](./internet.png)
 
 ## Pfade
 
@@ -35,3 +37,5 @@
 
 - `CPU` : Central Processing Unit / Prozessor
 - `RAM`: Random Acces Memory - Arbeitsspeicher, Kurzzeitspeicher
+
+## WLAN vs. LAN
