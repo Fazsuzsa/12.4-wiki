@@ -21,6 +21,7 @@
 ## Pfade
 
 - `absoluter Pfad` : Geht von dem Ursprung des Dateisystems aus. Bsp.: C://blablabla/blabla/bla
+
 - `relativer Pfad` : geht von dem Verzeichnis aus, in welchem ihr euch befindet. Bsp.: ./bla
 
 ## Entwickslungsumgebung 
@@ -30,12 +31,19 @@
 ## Software vs. Hardware
 
 - `software`: Programm / Anwendungen. Man kann Software nicht anfassen
-- `harware`: physische Komponenten des Computers / Server. Bsp.: CPU wäre eine Hardware Komponente.
+
+- `harware`: physische Komponenten des Computers / Server. Bsp.: CPU wäre eine Hardware Komponente
+
 - Betriebssystem bzw. OS`: Windows, Android, iOS. Schnittstelle zwischen Hardware und Software
 
 ## Hardware Komponenten
 
 - `CPU` : Central Processing Unit / Prozessor
+
 - `RAM`: Random Acces Memory - Arbeitsspeicher, Kurzzeitspeicher
 
-## WLAN vs. LAN
+## LAN vs. WLAN
+
+- `LAN` : Local Area Network = lokales oder örtliches Netzwerk. LAN ist ein Rechnernetz, wird z. B. in Heimnetzen oder Unternehmen eingesetzt
+
+- `WLAN` : Wireless Local Area Network = drahtloses lokales Netzwerk. WLAN bezeichnet ein lokales Funknetz
