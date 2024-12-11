@@ -14,7 +14,7 @@
 
     - eingeben: *python*
 
-    - JETZT KANN MAN BEFEHLE EINGEBEN, z.B.: *print("Hallo,Welt!")*
+    - Befehle eingeben z.B.: *print("Hallo,Welt!")*
 
     - beenden: *exit()*
 
