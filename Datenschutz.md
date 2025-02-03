@@ -1,21 +1,36 @@
 # Datenschutz und Datensicherheit
 
-`Datenschutz`:
-- Ausschließlich Schutz personenbezogener Daten
-- Welche Daten dürfen gespeichert werden?
-- Es geht um den Schutz des Individuums
-- Gesetzliche Regelungen
-- z. B. Kaufhistorien für gezielte Werbung nutzen ohne Zustimmung der Kunde
-
-`Datensicherheit`:
-- Schutz der Systeme
-- Verschlüsselung
-- Wie sicher sind die Daten vor unrechtmäßigem Zugriff
-- z. B. interne Dokumentationen des Unternehmens in einer ungesicherten Cloud speichern
-
-`Personenbezogene Daten`:
-`Sensible Daten`:
-`Datenverarbeitung`:
-`Einwilligung`:
-`Anomymisierung`:
-`Pseudonomymisierung`:
+- `Datenschutz`:
+    - Schutz personenbezogener Daten / Schutz des Individuums
+    - Welche Daten dürfen gespeichert werden? -> gesetzliche Regelungen
+    - z. B. Kaufhistorien für gezielte Werbung ohne Zustimmung der Kunde nutzen
+- `DSGVO`: Datenschutz-Grundverordnung
+    - dadurch soll der Schutz personenbezogener Daten innerhalb der Europäischen Union sichergestellt
+    - und soll der freie Datenverkehr innerhalb des Europäischen Binnenmarktes gewährleistet werden
+- `Datensicherheit`:
+    - Schutz der Systeme mit Verschlüsselung der Daten
+    - Wie sicher sind die Daten vor unrechtmäßigem Zugriff?
+    - z. B. interne Dokumentationen des Unternehmens in einer ungesicherten Cloud speichern
+- `Verschlüsselung`:
+    - ist die Umwandlung von Informationen, genannt Klartext, in einen Geheimtext
+    - z. B. wenn die Daten unverschlüsselt gespeichert werden, besteht ein hohes Risiko, dass Dritte leicht auf sie zugreifen
+können 
+- `Personenbezogene Daten`: 
+    - Direkt oder indirekt identifizierbare Daten
+    - z. B. IP-Adresse
+- `Sensible Daten`: 
+    - Daten in der besonderen Schutzkategorie
+    - z. B. Gesundheitsakte
+- `Datenverarbeitung`: 
+    - Jeglicher Umgang mit Daten
+    - z. B. Speichern von Logins
+- `Einwilligung`: 
+    - Erlaubnis zur Verarbeitung
+    - muss freiwillig sein, informiert erfolgen, widerrufbar sein
+    - z. B. Cookie-Banner auf Websites
+- `Anomymisierung`: 
+    - Daten sind nicht mehr zuzuordnen
+    - z. B. Statistik über Käufe ohne Namen
+- `Pseudonomymisierung`: 
+    - Daten sind durch Schlüssel zuordenbar
+    - z. B. Nutzer-ID statt Name
